@@ -1,4 +1,4 @@
-const API_URL = "https://dt207g-lab3-workexperience-api.onrender.com/";
+const API_URL = "https://dt207g-lab3-workexperience-api.onrender.com/api/workexperience";
 
 document.getElementById("add-experience-form").addEventListener("submit", async (e) => {
     e.preventDefault();

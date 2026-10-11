@@ -1,4 +1,4 @@
-const API_URL = "https://dt207g-lab3-workexperience-api.onrender.com/";
+const API_URL = "https://dt207g-lab3-workexperience-api.onrender.com/api/workexperience";
 
 document.addEventListener("DOMContentLoaded", () => {
     fetchWorkExperiences();
