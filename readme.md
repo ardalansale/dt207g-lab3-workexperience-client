@@ -2,7 +2,7 @@
 En fristående webbplats med flersidig struktur som konsumerar den separata backend-webbtjänsten för att visa, lägga till och radera arbetserfarenheter via Fetch API.
 
 ## Publicerad webbplats
-https://dt208g-lab4.netlify.app/
+https://dt207g-lab3.netlify.app/
 
 ## GitHub-repo
 https://github.com/ardalansale/dt207g-lab3-workexperience-client
@@ -13,7 +13,7 @@ https://github.com/ardalansale/dt207g-lab3-workexperience-client
 - Formulär för att lägga till nya erfarenheter med klientvalidering.
 - Möjlighet att radera befintliga poster.
 - Realtidssökning och filtrering direkt bland erfarenheterna.
-- Responsiv och stilren design anpassad med enhetlig CSS-bas och `DM Sans`-typsnitt.
+- Responsiv och avskalad design anpassad med enhetlig CSS-bas
 
 ## Komponenter och struktur
 - `index.html` – Startsida med tabell, sökfält och raderingsfunktion.
@@ -24,7 +24,7 @@ https://github.com/ardalansale/dt207g-lab3-workexperience-client
 
 ## Tekniker
 - HTML5
-- CSS3 (Global stilmall med `DM Sans` + komponentanpassad CSS)
+- CSS3
 - JavaScript (ES6+, Fetch API, Asynkrona anrop)
 
 ## Körning
