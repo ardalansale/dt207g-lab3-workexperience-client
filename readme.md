@@ -7,7 +7,6 @@ https://dt207g-lab3.netlify.app/
 ## GitHub-repo
 https://github.com/ardalansale/dt207g-lab3-workexperience-client
 
-
 ## Funktionalitet
 - Dynamisk hämtning och visning av sparade arbetserfarenheter i tabellform (`Fetch API`).
 - Formulär för att lägga till nya erfarenheter med klientvalidering.
